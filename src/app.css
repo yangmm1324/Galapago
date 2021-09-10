@@ -1,0 +1,15 @@
+.container-fluid{
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 100px;
+    width: 36%;
+    display: flex;
+    flex-direction: column;
+    .row justify-content-center.buttons{
+      padding: 20;
+    }
+  }
+.container-fluid.row justify-content-center.buttons{
+  padding: 20;
+}

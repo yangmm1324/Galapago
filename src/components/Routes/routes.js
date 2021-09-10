@@ -1,0 +1,9 @@
+export const SIGN_UP = '/signup';
+export const SIGN_IN = '/signin';
+export const HOME = '/home';
+export const ACCOUNT = '/account';
+export const HOTELS = '/hotel';
+export const RESTAURANT = '/restaurant';
+export const AGENCY = '/agency';
+export const TRANSPORT = '/transport';
+export const ADD = '/add';
