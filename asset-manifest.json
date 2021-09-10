@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Galapago/static/css/main.213240d6.chunk.css",
+    "main.js": "/Galapago/static/js/main.26dbb5c0.chunk.js",
+    "main.js.map": "/Galapago/static/js/main.26dbb5c0.chunk.js.map",
+    "runtime-main.js": "/Galapago/static/js/runtime-main.b9ad8461.js",
+    "runtime-main.js.map": "/Galapago/static/js/runtime-main.b9ad8461.js.map",
+    "static/css/2.1cace5d8.chunk.css": "/Galapago/static/css/2.1cace5d8.chunk.css",
+    "static/js/2.32782535.chunk.js": "/Galapago/static/js/2.32782535.chunk.js",
+    "static/js/2.32782535.chunk.js.map": "/Galapago/static/js/2.32782535.chunk.js.map",
+    "index.html": "/Galapago/index.html",
+    "precache-manifest.bd383fdc2db717285659fa09c08d8162.js": "/Galapago/precache-manifest.bd383fdc2db717285659fa09c08d8162.js",
+    "service-worker.js": "/Galapago/service-worker.js",
+    "static/css/2.1cace5d8.chunk.css.map": "/Galapago/static/css/2.1cace5d8.chunk.css.map",
+    "static/css/main.213240d6.chunk.css.map": "/Galapago/static/css/main.213240d6.chunk.css.map",
+    "static/js/2.32782535.chunk.js.LICENSE.txt": "/Galapago/static/js/2.32782535.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/Galapago/static/media/logo.ff10bf3a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9ad8461.js",
+    "static/css/2.1cace5d8.chunk.css",
+    "static/js/2.32782535.chunk.js",
+    "static/css/main.213240d6.chunk.css",
+    "static/js/main.26dbb5c0.chunk.js"
+  ]
+}
